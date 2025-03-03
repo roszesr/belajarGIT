@@ -8,12 +8,12 @@
 7. Tugas-finalProject
 
 ## Daftar perintah Git
-git clone  → Mengunduh repositori ke lokal
-git checkout -b → Membuat branch baru
-Touch <file.txt> → Membuat file txt
-nano <file.txt> → Mengedit file txt
-git add → Menambahkan perubahan ke staging
-git commit -m "" → Menyimpan perubahan dengan pesan
-git merge → Menggabungkan branch ke main
-git push origin main → Mengunggah perubahan ke GitHub
-git push origin --all → Mengunggah semua branch ke GitHub
+1. git clone https://github.com/roszesr/belajarGIT.git → Mengunduh repositori ke lokal
+2. git checkout -b → Membuat branch baru
+3. Touch <file.txt> → Membuat file txt
+4. nano <file.txt> → Mengedit file txt
+5. git add → Menambahkan perubahan ke staging
+6. git commit -m "" → Menyimpan perubahan dengan pesan
+7. git merge → Menggabungkan branch ke main
+8. git push origin main → Mengunggah perubahan ke GitHub
+9. git push origin --all → Mengunggah semua branch ke GitHub
