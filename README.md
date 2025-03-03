@@ -8,3 +8,12 @@
 7. Tugas-finalProject
 
 ## Daftar perintah Git
+git clone  → Mengunduh repositori ke lokal
+git checkout -b → Membuat branch baru
+Touch <file.txt> → Membuat file txt
+nano <file.txt> → Mengedit file txt
+git add → Menambahkan perubahan ke staging
+git commit -m "" → Menyimpan perubahan dengan pesan
+git merge → Menggabungkan branch ke main
+git push origin main → Mengunggah perubahan ke GitHub
+git push origin --all → Mengunggah semua branch ke GitHub
